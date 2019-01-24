@@ -1,0 +1,313 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{09E8EAD2-C5BD-4126-942A-DDBC7983F2F9}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>NMCNPM</RootNamespace>
+    <AssemblyName>NMCNPM</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ConnectionString.cs" />
+    <Compile Include="DataQLHS.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataQLHS.dbml</DependentUpon>
+    </Compile>
+    <Compile Include="qlhsDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>qlhsDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QLHS_Capnhatthongtin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QLHS_Capnhatthongtin.Designer.cs">
+      <DependentUpon>QLHS_Capnhatthongtin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QLHS_Dangnhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QLHS_Dangnhap.Designer.cs">
+      <DependentUpon>QLHS_Dangnhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QLHS_Doimatkhau.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QLHS_Doimatkhau.Designer.cs">
+      <DependentUpon>QLHS_Doimatkhau.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QLHS_GV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QLHS_GV.Designer.cs">
+      <DependentUpon>QLHS_GV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QLHS_GV_ND.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QLHS_GV_ND.Designer.cs">
+      <DependentUpon>QLHS_GV_ND.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QLHS_HS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QLHS_HS.Designer.cs">
+      <DependentUpon>QLHS_HS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QLHS_HS_TC_BD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QLHS_HS_TC_BD.Designer.cs">
+      <DependentUpon>QLHS_HS_TC_BD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Qlsv1DataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Qlsv1DataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QL_BC_TKHK.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QL_BC_TKHK.Designer.cs">
+      <DependentUpon>QL_BC_TKHK.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QL_BC_TKM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QL_BC_TKM.Designer.cs">
+      <DependentUpon>QL_BC_TKM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QL_DSGV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QL_DSGV.Designer.cs">
+      <DependentUpon>QL_DSGV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QLHS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QLHS.Designer.cs">
+      <DependentUpon>QLHS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QL_DSGV_Quydinhtuoi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QL_DSGV_Quydinhtuoi.Designer.cs">
+      <DependentUpon>QL_DSGV_Quydinhtuoi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QL_DSHS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QL_DSHS.Designer.cs">
+      <DependentUpon>QL_DSHS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QL_DSHS_Quydinhtuoi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QL_DSHS_Quydinhtuoi.Designer.cs">
+      <DependentUpon>QL_DSHS_Quydinhtuoi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QL_Lop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QL_Lop.Designer.cs">
+      <DependentUpon>QL_Lop.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QL_MonHoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QL_MonHoc.Designer.cs">
+      <DependentUpon>QL_MonHoc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QL_PC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QL_PC.Designer.cs">
+      <DependentUpon>QL_PC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QL_QDDiemDat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QL_QDDiemDat.Designer.cs">
+      <DependentUpon>QL_QDDiemDat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QL_TC_BD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QL_TC_BD.Designer.cs">
+      <DependentUpon>QL_TC_BD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QL_TC_DSL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QL_TC_DSL.Designer.cs">
+      <DependentUpon>QL_TC_DSL.cs</DependentUpon>
+    </Compile>
+    <None Include="DataQLHS.dbml.layout">
+      <DependentUpon>DataQLHS.dbml</DependentUpon>
+    </None>
+    <EmbeddedResource Include="QLHS_Capnhatthongtin.resx">
+      <DependentUpon>QLHS_Capnhatthongtin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QLHS_Dangnhap.resx">
+      <DependentUpon>QLHS_Dangnhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QLHS_Doimatkhau.resx">
+      <DependentUpon>QLHS_Doimatkhau.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QLHS_GV.resx">
+      <DependentUpon>QLHS_GV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QLHS_GV_ND.resx">
+      <DependentUpon>QLHS_GV_ND.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QLHS_HS.resx">
+      <DependentUpon>QLHS_HS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QLHS_HS_TC_BD.resx">
+      <DependentUpon>QLHS_HS_TC_BD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QL_BC_TKHK.resx">
+      <DependentUpon>QL_BC_TKHK.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QL_BC_TKM.resx">
+      <DependentUpon>QL_BC_TKM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QL_DSGV.resx">
+      <DependentUpon>QL_DSGV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QLHS.resx">
+      <DependentUpon>QLHS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="QL_DSGV_Quydinhtuoi.resx">
+      <DependentUpon>QL_DSGV_Quydinhtuoi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QL_DSHS.resx">
+      <DependentUpon>QL_DSHS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QL_DSHS_Quydinhtuoi.resx">
+      <DependentUpon>QL_DSHS_Quydinhtuoi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QL_Lop.resx">
+      <DependentUpon>QL_Lop.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QL_MonHoc.resx">
+      <DependentUpon>QL_MonHoc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QL_PC.resx">
+      <DependentUpon>QL_PC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QL_QDDiemDat.resx">
+      <DependentUpon>QL_QDDiemDat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QL_TC_BD.resx">
+      <DependentUpon>QL_TC_BD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QL_TC_DSL.resx">
+      <DependentUpon>QL_TC_DSL.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="DataQLHS.dbml">
+      <Generator>MSLinqToSQLGenerator</Generator>
+      <LastGenOutput>DataQLHS.designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="qlhsDataSet.xsc">
+      <DependentUpon>qlhsDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="qlhsDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>qlhsDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="qlhsDataSet.xss">
+      <DependentUpon>qlhsDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Qlsv1DataSet.xsc">
+      <DependentUpon>Qlsv1DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Qlsv1DataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Qlsv1DataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Qlsv1DataSet.xss">
+      <DependentUpon>Qlsv1DataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{3259AA49-8AA1-44D3-9025-A0B520596A8C}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,99 @@
+E:\ebook_học tập\nam 2\hk4\lap trinh truc quan\New folder\QLHS\NMCNPM\bin\Debug\NMCNPM.exe.config
+E:\ebook_học tập\nam 2\hk4\lap trinh truc quan\New folder\QLHS\NMCNPM\bin\Debug\NMCNPM.exe
+E:\ebook_học tập\nam 2\hk4\lap trinh truc quan\New folder\QLHS\NMCNPM\bin\Debug\NMCNPM.pdb
+E:\ebook_học tập\nam 2\hk4\lap trinh truc quan\New folder\QLHS\NMCNPM\obj\Debug\NMCNPM.csprojResolveAssemblyReference.cache
+E:\ebook_học tập\nam 2\hk4\lap trinh truc quan\New folder\QLHS\NMCNPM\obj\Debug\NMCNPM.QLHS.resources
+E:\ebook_học tập\nam 2\hk4\lap trinh truc quan\New folder\QLHS\NMCNPM\obj\Debug\NMCNPM.Properties.Resources.resources
+E:\ebook_học tập\nam 2\hk4\lap trinh truc quan\New folder\QLHS\NMCNPM\obj\Debug\NMCNPM.QL_DSHS.resources
+E:\ebook_học tập\nam 2\hk4\lap trinh truc quan\New folder\QLHS\NMCNPM\obj\Debug\NMCNPM.QL_Lop.resources
+E:\ebook_học tập\nam 2\hk4\lap trinh truc quan\New folder\QLHS\NMCNPM\obj\Debug\NMCNPM.QL_MonHoc.resources
+E:\ebook_học tập\nam 2\hk4\lap trinh truc quan\New folder\QLHS\NMCNPM\obj\Debug\NMCNPM.csproj.GenerateResource.Cache
+E:\ebook_học tập\nam 2\hk4\lap trinh truc quan\New folder\QLHS\NMCNPM\obj\Debug\NMCNPM.exe
+E:\ebook_học tập\nam 2\hk4\lap trinh truc quan\New folder\QLHS\NMCNPM\obj\Debug\NMCNPM.pdb
+E:\QLHS\NMCNPM\bin\Debug\NMCNPM.exe.config
+E:\QLHS\NMCNPM\obj\Debug\NMCNPM.exe
+E:\QLHS\NMCNPM\obj\Debug\NMCNPM.pdb
+E:\QLHS\NMCNPM\bin\Debug\NMCNPM.exe
+E:\QLHS\NMCNPM\bin\Debug\NMCNPM.pdb
+E:\QLHS\NMCNPM\obj\Debug\NMCNPM.csprojResolveAssemblyReference.cache
+E:\QLHS\NMCNPM\obj\Debug\NMCNPM.QL_DSGV.resources
+E:\QLHS\NMCNPM\obj\Debug\NMCNPM.QLHS.resources
+E:\QLHS\NMCNPM\obj\Debug\NMCNPM.Properties.Resources.resources
+E:\QLHS\NMCNPM\obj\Debug\NMCNPM.QL_DSHS.resources
+E:\QLHS\NMCNPM\obj\Debug\NMCNPM.QL_Lop.resources
+E:\QLHS\NMCNPM\obj\Debug\NMCNPM.QL_MonHoc.resources
+E:\QLHS\NMCNPM\obj\Debug\NMCNPM.csproj.GenerateResource.Cache
+E:\QLHS\NMCNPM\obj\Debug\NMCNPM.QL_DSGV_Quydinhtuoi.resources
+E:\QLHS\NMCNPM\obj\Debug\NMCNPM.QL_DSHS_Quydinhtuoi.resources
+E:\QLHS\NMCNPM\obj\Debug\NMCNPM.QL_QDDiemDat.resources
+E:\QLHS\NMCNPM\obj\Debug\NMCNPM.QLHS_Dangnhap.resources
+E:\QLHS\NMCNPM\obj\Debug\NMCNPM.QLHS_GV.resources
+E:\QLHS\NMCNPM\obj\Debug\NMCNPM.QLHS_Doimatkhau.resources
+E:\QLHS\NMCNPM\obj\Debug\NMCNPM.QLHS_HS.resources
+E:\QLHS\NMCNPM\obj\Debug\NMCNPM.QLHS_Capnhatthongtin.resources
+E:\QLHS\NMCNPM\obj\Debug\NMCNPM.QL_PC.resources
+E:\QLHS\NMCNPM\obj\Debug\NMCNPM.QLHS_GV_ND.resources
+E:\QLHS\NMCNPM\obj\Debug\NMCNPM.QL_TC_DSL.resources
+E:\QLHS\NMCNPM\obj\Debug\NMCNPM.QL_TC_BD.resources
+E:\QLHS\NMCNPM\obj\Debug\NMCNPM.QLHS_HS_TC_BD.resources
+E:\QLHS\NMCNPM\obj\Debug\NMCNPM.QL_BC_TKHK.resources
+E:\QLHS\NMCNPM\obj\Debug\NMCNPM.QL_BC_TKM.resources
+D:\tai lieu hoc\nhập môn công nghệ phần mền\QLHS (1)\QLHS\NMCNPM\bin\Debug\NMCNPM.exe.config
+D:\tai lieu hoc\nhập môn công nghệ phần mền\QLHS (1)\QLHS\NMCNPM\obj\Debug\NMCNPM.exe
+D:\tai lieu hoc\nhập môn công nghệ phần mền\QLHS (1)\QLHS\NMCNPM\obj\Debug\NMCNPM.pdb
+D:\tai lieu hoc\nhập môn công nghệ phần mền\QLHS (1)\QLHS\NMCNPM\obj\Debug\NMCNPM.csprojResolveAssemblyReference.cache
+D:\tai lieu hoc\nhập môn công nghệ phần mền\QLHS (1)\QLHS\NMCNPM\obj\Debug\NMCNPM.QLHS_Capnhatthongtin.resources
+D:\tai lieu hoc\nhập môn công nghệ phần mền\QLHS (1)\QLHS\NMCNPM\obj\Debug\NMCNPM.QLHS_Dangnhap.resources
+D:\tai lieu hoc\nhập môn công nghệ phần mền\QLHS (1)\QLHS\NMCNPM\obj\Debug\NMCNPM.QLHS_Doimatkhau.resources
+D:\tai lieu hoc\nhập môn công nghệ phần mền\QLHS (1)\QLHS\NMCNPM\obj\Debug\NMCNPM.QLHS_GV.resources
+D:\tai lieu hoc\nhập môn công nghệ phần mền\QLHS (1)\QLHS\NMCNPM\obj\Debug\NMCNPM.QLHS_GV_ND.resources
+D:\tai lieu hoc\nhập môn công nghệ phần mền\QLHS (1)\QLHS\NMCNPM\obj\Debug\NMCNPM.QLHS_HS.resources
+D:\tai lieu hoc\nhập môn công nghệ phần mền\QLHS (1)\QLHS\NMCNPM\obj\Debug\NMCNPM.QLHS_HS_TC_BD.resources
+D:\tai lieu hoc\nhập môn công nghệ phần mền\QLHS (1)\QLHS\NMCNPM\obj\Debug\NMCNPM.QL_BC_TKHK.resources
+D:\tai lieu hoc\nhập môn công nghệ phần mền\QLHS (1)\QLHS\NMCNPM\obj\Debug\NMCNPM.QL_BC_TKM.resources
+D:\tai lieu hoc\nhập môn công nghệ phần mền\QLHS (1)\QLHS\NMCNPM\obj\Debug\NMCNPM.QL_DSGV.resources
+D:\tai lieu hoc\nhập môn công nghệ phần mền\QLHS (1)\QLHS\NMCNPM\obj\Debug\NMCNPM.QLHS.resources
+D:\tai lieu hoc\nhập môn công nghệ phần mền\QLHS (1)\QLHS\NMCNPM\obj\Debug\NMCNPM.Properties.Resources.resources
+D:\tai lieu hoc\nhập môn công nghệ phần mền\QLHS (1)\QLHS\NMCNPM\obj\Debug\NMCNPM.QL_DSGV_Quydinhtuoi.resources
+D:\tai lieu hoc\nhập môn công nghệ phần mền\QLHS (1)\QLHS\NMCNPM\obj\Debug\NMCNPM.QL_DSHS.resources
+D:\tai lieu hoc\nhập môn công nghệ phần mền\QLHS (1)\QLHS\NMCNPM\obj\Debug\NMCNPM.QL_DSHS_Quydinhtuoi.resources
+D:\tai lieu hoc\nhập môn công nghệ phần mền\QLHS (1)\QLHS\NMCNPM\obj\Debug\NMCNPM.QL_Lop.resources
+D:\tai lieu hoc\nhập môn công nghệ phần mền\QLHS (1)\QLHS\NMCNPM\obj\Debug\NMCNPM.QL_MonHoc.resources
+D:\tai lieu hoc\nhập môn công nghệ phần mền\QLHS (1)\QLHS\NMCNPM\obj\Debug\NMCNPM.QL_PC.resources
+D:\tai lieu hoc\nhập môn công nghệ phần mền\QLHS (1)\QLHS\NMCNPM\obj\Debug\NMCNPM.QL_QDDiemDat.resources
+D:\tai lieu hoc\nhập môn công nghệ phần mền\QLHS (1)\QLHS\NMCNPM\obj\Debug\NMCNPM.QL_TC_BD.resources
+D:\tai lieu hoc\nhập môn công nghệ phần mền\QLHS (1)\QLHS\NMCNPM\obj\Debug\NMCNPM.QL_TC_DSL.resources
+D:\tai lieu hoc\nhập môn công nghệ phần mền\QLHS (1)\QLHS\NMCNPM\obj\Debug\NMCNPM.csproj.GenerateResource.Cache
+D:\tai lieu hoc\nhập môn công nghệ phần mền\QLHS (1)\QLHS\NMCNPM\bin\Debug\NMCNPM.exe
+D:\tai lieu hoc\nhập môn công nghệ phần mền\QLHS (1)\QLHS\NMCNPM\bin\Debug\NMCNPM.pdb
+E:\ebook_học tập\nam 2\hk4\nhap mon cnpm\QLHS\NMCNPM\bin\Debug\NMCNPM.exe.config
+E:\ebook_học tập\nam 2\hk4\nhap mon cnpm\QLHS\NMCNPM\obj\Debug\NMCNPM.exe
+E:\ebook_học tập\nam 2\hk4\nhap mon cnpm\QLHS\NMCNPM\obj\Debug\NMCNPM.pdb
+E:\ebook_học tập\nam 2\hk4\nhap mon cnpm\QLHS\NMCNPM\bin\Debug\NMCNPM.exe
+E:\ebook_học tập\nam 2\hk4\nhap mon cnpm\QLHS\NMCNPM\bin\Debug\NMCNPM.pdb
+E:\ebook_học tập\nam 2\hk4\nhap mon cnpm\QLHS\NMCNPM\obj\Debug\NMCNPM.csprojResolveAssemblyReference.cache
+E:\ebook_học tập\nam 2\hk4\nhap mon cnpm\QLHS\NMCNPM\obj\Debug\NMCNPM.QLHS_Capnhatthongtin.resources
+E:\ebook_học tập\nam 2\hk4\nhap mon cnpm\QLHS\NMCNPM\obj\Debug\NMCNPM.QLHS_Dangnhap.resources
+E:\ebook_học tập\nam 2\hk4\nhap mon cnpm\QLHS\NMCNPM\obj\Debug\NMCNPM.QLHS_Doimatkhau.resources
+E:\ebook_học tập\nam 2\hk4\nhap mon cnpm\QLHS\NMCNPM\obj\Debug\NMCNPM.QLHS_GV.resources
+E:\ebook_học tập\nam 2\hk4\nhap mon cnpm\QLHS\NMCNPM\obj\Debug\NMCNPM.QLHS_GV_ND.resources
+E:\ebook_học tập\nam 2\hk4\nhap mon cnpm\QLHS\NMCNPM\obj\Debug\NMCNPM.QLHS_HS.resources
+E:\ebook_học tập\nam 2\hk4\nhap mon cnpm\QLHS\NMCNPM\obj\Debug\NMCNPM.QLHS_HS_TC_BD.resources
+E:\ebook_học tập\nam 2\hk4\nhap mon cnpm\QLHS\NMCNPM\obj\Debug\NMCNPM.QL_BC_TKHK.resources
+E:\ebook_học tập\nam 2\hk4\nhap mon cnpm\QLHS\NMCNPM\obj\Debug\NMCNPM.QL_BC_TKM.resources
+E:\ebook_học tập\nam 2\hk4\nhap mon cnpm\QLHS\NMCNPM\obj\Debug\NMCNPM.QL_DSGV.resources
+E:\ebook_học tập\nam 2\hk4\nhap mon cnpm\QLHS\NMCNPM\obj\Debug\NMCNPM.QLHS.resources
+E:\ebook_học tập\nam 2\hk4\nhap mon cnpm\QLHS\NMCNPM\obj\Debug\NMCNPM.Properties.Resources.resources
+E:\ebook_học tập\nam 2\hk4\nhap mon cnpm\QLHS\NMCNPM\obj\Debug\NMCNPM.QL_DSGV_Quydinhtuoi.resources
+E:\ebook_học tập\nam 2\hk4\nhap mon cnpm\QLHS\NMCNPM\obj\Debug\NMCNPM.QL_DSHS.resources
+E:\ebook_học tập\nam 2\hk4\nhap mon cnpm\QLHS\NMCNPM\obj\Debug\NMCNPM.QL_DSHS_Quydinhtuoi.resources
+E:\ebook_học tập\nam 2\hk4\nhap mon cnpm\QLHS\NMCNPM\obj\Debug\NMCNPM.QL_Lop.resources
+E:\ebook_học tập\nam 2\hk4\nhap mon cnpm\QLHS\NMCNPM\obj\Debug\NMCNPM.QL_MonHoc.resources
+E:\ebook_học tập\nam 2\hk4\nhap mon cnpm\QLHS\NMCNPM\obj\Debug\NMCNPM.QL_PC.resources
+E:\ebook_học tập\nam 2\hk4\nhap mon cnpm\QLHS\NMCNPM\obj\Debug\NMCNPM.QL_QDDiemDat.resources
+E:\ebook_học tập\nam 2\hk4\nhap mon cnpm\QLHS\NMCNPM\obj\Debug\NMCNPM.QL_TC_BD.resources
+E:\ebook_học tập\nam 2\hk4\nhap mon cnpm\QLHS\NMCNPM\obj\Debug\NMCNPM.QL_TC_DSL.resources
+E:\ebook_học tập\nam 2\hk4\nhap mon cnpm\QLHS\NMCNPM\obj\Debug\NMCNPM.csproj.GenerateResource.Cache
+E:\Hoc Ky 4\NMCNPM\QLHS\NMCNPM\bin\Debug\NMCNPM.exe.config
+E:\Hoc Ky 4\NMCNPM\QLHS\NMCNPM\obj\Debug\NMCNPM.exe
+E:\Hoc Ky 4\NMCNPM\QLHS\NMCNPM\obj\Debug\NMCNPM.pdb
